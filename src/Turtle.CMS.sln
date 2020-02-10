@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tortoise.CMS", "Tortoise.CMS\Tortoise.CMS.csproj", "{A463B328-C8A7-4BD8-B787-C1C30B1D7CF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turtle.Host", "Turtle.Host\Turtle.Host.csproj", "{A463B328-C8A7-4BD8-B787-C1C30B1D7CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tortoise.CMS.Core", "Tortoise.CMS.Core\Tortoise.CMS.Core.csproj", "{6907E54B-400A-4B27-A6B5-0FC7489B12DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turtle.Core", "Turtle.Core\Turtle.Core.csproj", "{6907E54B-400A-4B27-A6B5-0FC7489B12DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

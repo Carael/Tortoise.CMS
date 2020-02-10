@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Tortoise.CMS
+namespace Turtle.Host
 {
     public class Program
     {

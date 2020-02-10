@@ -1,6 +1,6 @@
-# Tortoise.CMS
+# Turtle.CMS
 
-Tortoise.CMS is an headless GraphQL CMS backoffice. Backoffice will use Blazor for frontend and HotChocolate GraphQL server for backend.
+Turtle.CMS is an headless GraphQL CMS backoffice. Backoffice will use Blazor for frontend and HotChocolate GraphQL server for backend.
 
 The goal is to support out of the box migrations of Content/DataTypes/DocumentTypes.
 

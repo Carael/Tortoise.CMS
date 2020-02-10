@@ -5,7 +5,7 @@ using HotChocolate.AspNetCore;
 using HotChocolate.AspNetCore.Voyager;
 using HotChocolate;
 
-namespace Tortoise.CMS
+namespace Turtle.Host
 {
     public class Startup
     {

@@ -1,4 +1,4 @@
-﻿namespace Tortoise.CMS
+﻿namespace Turtle.Host
 {
     public class Query
     {

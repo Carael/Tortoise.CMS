@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Tortoise.CMS": {
+    "Turtle.CMS": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
